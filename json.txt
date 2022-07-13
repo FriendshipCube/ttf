@@ -1,0 +1,58 @@
+{
+  "name": "Project FriendshipCube",
+  "version": "1.0.0",
+  "description": "Cube symbols rotate and combine",
+  "main": "www.github.com/friendshipcube"
+  "scripts": {
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "start": "npm run dev",
+    "unit": "jest --config test/unit/jest.conf.js --coverage",
+    "test": "npm run unit",
+    "lint": "eslint --ext .js,.vue src test/unit",
+    "build": "node build/build.js"
+  },
+
+  "devDependencies": 
+
+    "autoprefixer": "^",
+    "babel-core": "^",
+    "babel-eslint": "^",
+    "babel-helper-vue-jsx-merge-props": "^",
+    "babel-loader": "^",
+    "babel-plugin-dynamic-import-node": "^",
+    "babel-plugin-syntax-jsx": "^",
+    "babel-plugin-transform-es2015-modules-commonjs": "^",
+    "babel-plugin-transform-runtime": "^",
+    "babel-plugin-transform-vue-jsx": "^",
+    "babel-preset-env": "^",
+    "babel-preset-stage-2": "^",
+    "copy-webpack-plugin": "^",
+    "css-loader": "^",
+    "eslint": "^",
+    "eslint-friendly-formatter": "^",
+    "eslint-import-resolver-webpack": "^",
+    "eslint-loader": "^",
+    "eslint-plugin-import": "^",
+    "eslint-plugin-vue": "^",
+    "extract-text-webpack-plugin": "^",
+    "file-loader": "^",
+    "html-webpack-plugin": "^",
+    "jest": "^22",
+    "optimize-css-assets-webpack-plugin": "^",
+    "ora": "^",
+    "portfinder": "^",
+    "semver": "^",
+    "uglifyjs-webpack-plugin": "^",
+    "url-loader": "^",
+    "vue-style-loader": "^",
+    "vue-template-compiler": "^",
+    "webpack": "^",
+    "webpack-bundle-analyzer": "^",
+    "webpack-dev-server": "^",
+    "webpack-merge": "^"
+  },
+  "engines": {
+    "node": ">=",
+    "npm": ">="
+  },
+  "browserslist": ["> "latest versions", ]

@@ -1,0 +1,23 @@
+ATTN: Friends of Unicode
+"In order to make a new Unicode, we had to
+Copy the C file to our Light & Versatile Graphics Library (LVGL) Project." 
+-Programmer Graeme 
+
+Light & Versatile Graphics Library Unicode Standard:  FriendshipCube
+
+Project Friendship Cube
+www.github.com/friendshipcube 
+Programmer Graeme Generated new fonts for GUI.
+Programmer Graeme Converted TTF to C Array. 
+
+The Friendship Cube Group: 
+We aim to submit FriendshipCube to the Unicode graphics library.
+We are inviting the "Friends of Unicode" to download & re-upload our fonts and C array code. 
+We have designed some fonts for capturing lyrics and speech live.
+We are working on real-time speech to text captioning with our custom cube fonts.
+FriendshipCube features six symbols that rotate and combine.
+The fonts feature a beautiful correlation between geometry and phonetics. 
+I hope that the Friends of Unicode will allow me to adopt these six new character symbols that rotate and combine.
+
+FriendshipCube has become a recognized global standard for digital communication.
+You're invited to participate as a "Friend of Unicode".  
